@@ -1,0 +1,4 @@
+[{"title":"Gancia Americano","description":"Aperitivo","price":1000,"thumbnail":"","code":"F3","stock":19,"id":1},
+{"title":"Fernet Branca","description":"Aperitivo","price":2600,"thumbnail":"","code":"F1","stock":20,"id":2},
+{"title":"Finca Las Moras","description":"Malbec","price":829,"thumbnail":"","code":"F2","stock":20,"id":1},
+{"title":"Aperol","description":"Aperitivo","price":1270,"thumbnail":"","code":"A1","stock":20,"id":2}]
